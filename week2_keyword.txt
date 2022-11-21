@@ -30,6 +30,6 @@ Git 2주차 주요 개념 키워드
  - merge할 브랜치 내용과 merge하는 브랜치 내용을 구분하여 보여준다.
  - 최종적으로 반영할 내역으로 수정한 후에 merge commit 한다.
 
-6. 원격 repo 의 origin (tracking)
+7. 원격 repo 의 origin (tracking)
  - tracking : 로컬 repo와 원격 repo의 '특정 브랜치'를 연결해주는 것.
  - push와 pull은 tracking되고 있는 브랜치를 기준으로 commit 내역을 반영한다.
